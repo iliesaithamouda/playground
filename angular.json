@@ -51,7 +51,7 @@
               "apps/playground/src/favicon.ico",
               "apps/playground/src/assets"
             ],
-            "styles": ["apps/playground/src/styles.scss"],
+            "styles": ["./node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css", "apps/playground/src/styles.scss"],
             "scripts": []
           },
           "configurations": {
